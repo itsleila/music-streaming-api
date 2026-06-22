@@ -25,11 +25,8 @@ A aplicação permite que usuários realizem operações relacionadas ao consumo
 
 ## Tecnologias Utilizadas
 
-Java 21
-Spring Boot
-Spring Data JPA
-Hibernate
-Bean Validation
-Lombok
-H2 Database
-Maven
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- Lombok
+- H2 Database
